@@ -1,0 +1,196 @@
+.navbar{
+    background-color: #777066;
+    color: #beb4a8;
+    text-align:center;
+    padding: 10px;
+    border-radius: 15px 10px;
+    box-shadow: 10px 5px 5px #59544c;
+}
+.navelements{
+    list-style-type: none;
+}
+.navlistelement{
+    padding: 10px;
+    margin: 25px;
+    color: #beb4a8;;
+    text-decoration: none;
+}
+.navlistelement:hover {
+    background-color: #59544c;
+} 
+.backgroundstyle{
+    background-color: #beb4a8;
+    background-image: url("logo.png");
+    background-repeat:no-repeat;
+    background-position-y: 350px;
+    background-position-x: 800px;
+}
+/* .mainlogo {
+    margin-left: 810px;
+    margin-top: 250px;
+} */
+.maintext {
+    margin-left: 110px;
+    margin-top: 50px;
+    color: #777066;;
+}
+.mainprofile{
+    height: 35px;
+    width: 35px;
+}
+.mainmain{
+    height: 35px;
+    width: 35px;
+}
+.mainwelcome{
+    height: 35px;
+    width: 35px;
+}
+.regtext{
+    color: #777066;
+    margin-top: 200px;
+    margin-left: 650px;
+    
+}
+.regtext input{
+    border-radius: 10px 10px;
+    padding: 25px;
+    background-color: #777066;
+    color: #beb4a8;
+    font-size: 125%;
+}
+.regtext button{
+    border-radius: 10px 10px;
+    padding: 25px;
+    background-color: #59544c;
+    color: #beb4a8;
+}
+
+.adimg1{
+    box-shadow: 10px 5px 5px #59544c;
+    width: 10%;
+    height: 10%;
+    margin-left: 50px;
+    margin-top: 250px;
+}
+.adimg2{
+    box-shadow: 10px 5px 5px #59544c;
+    width: 10%;
+    height: 10%;
+    margin-left: 180px;
+    margin-top: 250px;
+}
+.adimg3{
+    box-shadow: 10px 5px 5px #59544c;
+    width: 10%;
+    height: 10%;
+    margin-left: 250px;
+    margin-top: 250px;
+}
+.secondtext{
+    color: #777066;
+    margin-left: 1050px;
+    margin-top: 50px;
+}
+.adimg1:hover{
+    width: 10.1%;
+    height: 10.1%;
+}
+.adimg2:hover{
+    width: 10.1%;
+    height: 10.1%;
+}
+.adimg3:hover{
+    width: 10.1%;
+    height: 10.1%;
+}
+.element{
+    background-color: #777066;
+    color: #beb4a8;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.element button{
+    border-radius: 10px 10px;
+    padding: 5px;
+    background-color: #777066;
+    color: #beb4a8;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    font-size: 75%;
+    margin-left: 1800px;
+}
+.element:hover{
+    background-color: #59544c;
+    color: #d8cfc5;
+}
+.newelement{
+    padding: 50px;
+    margin: 50;
+}
+.newelement input{
+    border-radius: 10px 10px;
+    padding: 5px;
+    background-color: #777066;
+    color: #beb4a8;
+}
+.newelement textarea{
+    border-radius: 10px 10px;
+    padding: 5px;
+    background-color: #777066;
+    color: #beb4a8;
+    margin-bottom: -15px;
+}
+.newelement button{
+    border-radius: 10px 10px;
+    padding: 5px;
+    background-color: #777066;
+    color: #beb4a8;
+    width: 150px;
+    height: 50px;
+}
+.newelement h2{
+    color: #777066;
+}
+::placeholder{
+    color: #beb4a8;
+    font-size: 125%;
+}
+textarea{
+    resize: none;
+    font-size: 125%;
+}
+button{
+    font-size: 125%;
+}
+button:hover{
+    background-color: #d8cfc5;
+    color: #59544c;
+}
+
+.rickroll{
+    margin-left: 25%;
+    margin-top: 60px;
+}
+.rickrolltext{
+    margin-left: 810px;
+    margin-top: 50px;
+    color: #777066;;
+}
+.elementsImg{
+    width: 70px;
+    height: 70px;
+    text-decoration: none;
+}
+.elementsImg:hover{
+    background-color: #59544c;
+    width: 65px;
+    height: 65px;
+}
+.groups{
+    margin-left:1485px;
+    padding:5px;
+    text-decoration: none;
+}
