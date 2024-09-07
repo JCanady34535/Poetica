@@ -49,7 +49,7 @@
 .regtext{
     color: #777066;
     margin-top: 200px;
-    margin-left: 30%;
+    margin-left: 25%;
     
 }
 .regtext input{
@@ -171,7 +171,7 @@ button:hover{
 }
 
 .rickroll{
-    margin-left: 25%;
+    margin-left: 45%;
     margin-top: 60px;
 }
 .rickrolltext{
