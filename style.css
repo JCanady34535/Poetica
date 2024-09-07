@@ -49,7 +49,7 @@
 .regtext{
     color: #777066;
     margin-top: 200px;
-    margin-left: 650px;
+    margin-left: 30%;
     
 }
 .regtext input{
@@ -120,7 +120,7 @@
     height: 30px;
     text-align: center;
     font-size: 75%;
-    margin-left: 95%;
+    margin-left: 90%;
 }
 .element:hover{
     background-color: #59544c;
@@ -175,7 +175,7 @@ button:hover{
     margin-top: 60px;
 }
 .rickrolltext{
-    margin-left: 810px;
+    margin-left: 45%;
     margin-top: 50px;
     color: #777066;;
 }
